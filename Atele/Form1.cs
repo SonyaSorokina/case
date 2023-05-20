@@ -39,5 +39,10 @@ namespace Atele
             f3.Show();
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Проект выполнен студенткой Сорокиной Софьей группы ПИН-222");
+        }
     }
 }
