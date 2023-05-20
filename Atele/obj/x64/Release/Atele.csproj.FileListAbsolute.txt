@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Atele\Atele\bin\x64\Release\atele.accdb
+C:\Users\Admin\source\repos\Atele\Atele\bin\x64\Release\Atele.exe.config
+C:\Users\Admin\source\repos\Atele\Atele\bin\x64\Release\Atele.exe
+C:\Users\Admin\source\repos\Atele\Atele\bin\x64\Release\Atele.pdb
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Form1.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Form2.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Form3.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Form4.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Form5.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.Properties.Resources.resources
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.exe
+C:\Users\Admin\source\repos\Atele\Atele\obj\x64\Release\Atele.pdb
